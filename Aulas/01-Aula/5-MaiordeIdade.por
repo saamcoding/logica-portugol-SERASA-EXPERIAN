@@ -14,7 +14,7 @@ programa
 			escreva("Você é maior de idade")}
 		
 		senao{
-			escreva("Você é menor de idade-")}
+			escreva("Você é menor de idade")}
 	}
 }
 /* $$$ Portugol Studio $$$ 
